@@ -1,8 +1,8 @@
-# Vanilla JavaScript App Boilerplate
+# Navigation Dropdown with Follow Along Effect
 
 App demonstrating ...
 
-Live version: https://REPO.herokuapp.com
+Live version: https://navigation-dropdown.herokuapp.com
 
 <img src="./src/graphics/screencast.gif" width="275px" height="auto">
 
@@ -17,8 +17,8 @@ Live version: https://REPO.herokuapp.com
 ## Getting started
 
 ```sh
-git clone https://github.com/PiotrBerebecki/REPO.git
-cd REPO
+git clone https://github.com/PiotrBerebecki/navigation-dropdown-follow-along.git
+cd navigation-dropdown-follow-along
 npm install
 
 #1. Start the development server with Browsersync reloading
