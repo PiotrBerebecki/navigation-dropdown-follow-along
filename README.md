@@ -1,6 +1,6 @@
 # Navigation Dropdown with Follow Along Effect
 
-App demonstrating ...
+The dropdown menu follows along as the user is checking out navbar sections.
 
 Live version: https://navigation-dropdown.herokuapp.com
 
